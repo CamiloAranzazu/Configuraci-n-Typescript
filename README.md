@@ -1,5 +1,5 @@
-# Configuraci-n-Typescript
-Configuración Typescript TEORIA
+# Ejercicio de Typescript
+Ejercicio de Typescript
 
 // Uso de Let y Const
 
