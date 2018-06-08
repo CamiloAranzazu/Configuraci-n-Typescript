@@ -1,19 +1,19 @@
 # Ejercicio de Typescript
 Ejercicio de Typescript
 
-// Uso de Let y Const
+1) Uso de Let y Const
 
-// Cree una interfaz que sirva para validar el siguiente objeto
+2) Cree una interfaz que sirva para validar el siguiente objeto
 
-// Convertir esta funcion a una funcion de flecha
+3) Convertir esta funcion a una funcion de flecha
 
-// Función con parametros obligatorios, opcionales y por defecto
+4) Función con parametros obligatorios, opcionales y por defecto
 // donde NOMBRE = obligatorio
 //       PODER  = opcional
 //       ARMA   = por defecto = "arco"
 
 
-// Cree una clase que permita manejar la siguiente estructura
+5) Cree una clase que permita manejar la siguiente estructura
 // La clase se debe de llamar rectangulo,
 // debe de tener dos propiedades:
 //   * base
