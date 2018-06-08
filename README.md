@@ -3,9 +3,9 @@ Ejercicio de Typescript
 
 1) Uso de Let y Const
 
-2) Cree una interfaz que sirva para validar el siguiente objeto
+2) Cree una interfaz que sirva para validar un objeto
 
-3) Convertir esta funcion a una funcion de flecha
+3) Convertir una funcion noraml a una funcion de flecha
 
 4) Función con parametros obligatorios, opcionales y por defecto
 // donde NOMBRE = obligatorio
