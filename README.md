@@ -5,7 +5,7 @@ Ejercicio de Typescript
 
 2) Cree una interfaz que sirva para validar un objeto
 
-3) Convertir una funcion noraml a una funcion de flecha
+3) Convertir una funcion normal a una funcion de flecha
 
 4) Función con parametros obligatorios, opcionales y por defecto
 // donde NOMBRE = obligatorio
